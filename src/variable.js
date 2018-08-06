@@ -12,5 +12,8 @@ GameBoard.src = "./images/gameboard.png";
 var Paddle = new Image;
 Paddle.src = "./images/paddle.png";
 
+var Ball = new Image;
+Ball.src = "./images/ball.png";
+
 var pos_x = 0;    // 0～560
 var pos_y = 470;  // 470で固定
